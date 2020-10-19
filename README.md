@@ -4,4 +4,4 @@
 
 [2020-10-10] apache, flask
 
-[2020-10-] CREON 계좌개설 및 api id생성
+[2020-10-19] CREON 계좌개설 및 api id생성
